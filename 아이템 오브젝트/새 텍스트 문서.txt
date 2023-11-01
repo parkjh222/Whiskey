@@ -1,0 +1,3 @@
+bottle이 위스키
+Soup가 체력회복 아이템
+Gear, PipeBroken, Lever가 파밍 가능한 아이템
